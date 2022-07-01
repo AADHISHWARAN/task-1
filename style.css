@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Finlandica:ital,wght@1,600&family=Roboto+Mono&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    background-color:yellow;
+    width:100vw;
+    height:100vh;
+
+}
+.div1{
+    font-size: 2em;
+    font-family: 'Finlandica', sans-serif;
+    width:100vw;
+    height:100vh;
+    text-align:top;
+    
+}
+.div1 h1{
+    color:black;
+    display:flex;
+    justify-content: center;
+    align-content: center;
+
+}
+.div1 img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:75%;
+    height:75vh;
+}
+.container .div2{
+   
+    font-size:2em;
+    background-color: red;
+    border:10px solid black;
+    font-family: 'Finlandica', sans-serif;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;   
+}
+.div2 img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:75%;
+    height:75vh;
+}
+.div3{
+    font-size: 2em;
+    border: 10px solid black;
+    background-color: violet;
+    font-family: 'Finlandica', sans-serif;
+    width:100vw;
+    height:100vh;
+    text-align: center;
+    
+}
+.div3 img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:75%;
+    height:75vh;
+
+}
+.div4{
+    font-size: 2em;
+    border:10px solid black;
+    background-color:cyan ;
+    font-family: 'Finlandica', sans-serif;
+    width:100vw;
+    height:100vh;
+    text-align: center;
+
+}
+.div4 img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:75%;
+    height:75vh;
+}
